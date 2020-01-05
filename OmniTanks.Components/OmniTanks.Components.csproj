@@ -46,7 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="CosmeticsInfo.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="PlayerInstance.cs" />
+    <Compile Include="TankInstance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
